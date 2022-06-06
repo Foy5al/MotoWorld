@@ -1,3 +1,16 @@
+ This project is based on a Mechanic service in this project and the technology is used here is react js.
+
+Package uses in this project:
+
+1.React Bootstrap
+2.React Router
+3.Firebase Authentication and hosting
+4.React Hash link
+5.React-Hook-Form
+6.Axios
+7.MongoDb
+8.Cors
+9.express
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
