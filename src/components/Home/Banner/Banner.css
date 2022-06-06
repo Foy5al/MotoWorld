@@ -1,0 +1,29 @@
+.carousel-inner>.carousel-item>img {
+    height: 100vh;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.bannermargin {
+    height: 100vh;
+}
+
+.bannerAnimation h3 {
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+
+
+@keyframes bannaertext {
+    from {
+        left: 50px;
+    }
+
+    to {
+        right: 0;
+    }
+}

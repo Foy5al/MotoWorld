@@ -1,0 +1,18 @@
+.navposition {
+    margin: none;
+}
+
+.user-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+
+.avatar {
+    margin-top: 10px;
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

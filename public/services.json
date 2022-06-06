@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"name": "Full Bike Checkup",
+		"price": 15000,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 2,
+		"img": "https://i.ibb.co/mhX9KB1/nina-mercado-e9-YFr-EBWit8-unsplash.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Replace Tire",
+		"price": 8000,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 1,
+		"img": "https://i.ibb.co/qkrBDMk/artem-beliaikin-Cc-QWTRse-Dow-unsplash.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Spoke Repaire",
+		"price": 2500,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 2,
+		"img": "https://i.ibb.co/JnxrBfs/egor-myznik-GKLm-Vfc-Xl0o-unsplash.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Helmate Clean",
+		"price": 250,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 1,
+		"img": "https://i.ibb.co/nmFCkSN/garin-chadwick-g2-N5xvt-S1s8-unsplash.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Bag Gard Installation",
+		"price": 2000,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 2,
+		"img": "https://i.ibb.co/XYp6b6z/kat-sazonova-4-ORys-Ij-H-m-Y-unsplash.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Exhaust Install",
+		"price": 7000,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 1,
+		"img": "https://i.ibb.co/TvDBKqH/kat-sazonova-i8-DMKt-Myf-WM-unsplash.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Fix Exhaust",
+		"price": 3000,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 2,
+		"img": "https://i.ibb.co/TW7Frz1/kat-sazonova-o-OOv-YPVoqf4-unsplash.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Performance Test and Update",
+		"price": 2000,
+		"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa vitae, laboriosam nobis sapiente vero suscipit officia provident corporis voluptatem nesciunt aspernatur alias. Facere, quis qui.",
+		"time": 2,
+		"img": "https://i.ibb.co/F6G86Xx/kumpan-electric-d-Em-WUxw-ZDo0-unsplash.jpg"
+	}
+]

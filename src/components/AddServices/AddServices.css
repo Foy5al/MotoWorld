@@ -1,0 +1,48 @@
+#addservices form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#addservices input {
+    background-color: lightcyan;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px 1px cyan;
+    width: 40%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#addservices input:focus {
+    background-color: white;
+    outline-offset: 3px;
+    box-shadow: 2px 2px 8px 1px rgb(8, 219, 219);
+    outline: none;
+}
+
+#addservices textarea {
+    background-color: lightcyan;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px 1px cyan;
+    min-height: 80px;
+    width: 40%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#addservices textarea:focus {
+    background-color: white;
+    outline-offset: 3px;
+    box-shadow: 2px 2px 8px 1px rgb(8, 219, 219);
+    outline: none;
+}
+
+#addservices label {
+    display: block;
+    width: 40%;
+    text-align: start;
+    margin-left: 20px;
+}
