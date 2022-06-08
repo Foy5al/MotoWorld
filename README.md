@@ -4,7 +4,7 @@ Package uses in this project:
 
 1.React Bootstrap
 2.React Router
-3.Firebase Authentication and hosting
+3.Firebase Authentication
 4.React Hash link
 5.React-Hook-Form
 6.Axios

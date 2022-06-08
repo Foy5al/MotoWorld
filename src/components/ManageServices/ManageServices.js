@@ -4,12 +4,12 @@ import React, { useEffect, useState } from 'react';
 const ManageServices = () => {
     const [services, setservices] = useState([]);
     useEffect(() => {
-        axios.get('http://localhost:5000/services')
+        axios.get('https://rocky-wave-02571.herokuapp.com/services')
             .then(resp => setservices(resp.data))
     }, [])
 
     const handleDeleteBtn = id => {
-        axios.delete(`http://localhost:5000/services/${id}`)
+        axios.delete(`https://rocky-wave-02571.herokuapp.com/services/${id}`)
             .then(resp => {
                 console.log(resp);
                 if (resp.data.deletedCount === 1) {
